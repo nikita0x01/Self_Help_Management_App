@@ -6,7 +6,7 @@ A desktop-based application built in **Python** using **Tkinter** for GUI and **
 
 ##  Features
 
-- 🔐 **Login System**  
+-  **Login System**  
   - Admin & Member login access
   - Role-based dashboard navigation
 
